@@ -1,8 +1,8 @@
-# Privacy Policy for House Loan Calc
+# Privacy Policy for Mortgage Loan Calc
 
 **Effective Date: August 6, 2026**
 
-This Privacy Policy describes how "House Loan Calc" (the "Application") handles your information. By using the Application, you agree to the terms described in this policy.
+This Privacy Policy describes how "Mortgage Loan Calc" (the "Application") handles your information. By using the Application, you agree to the terms described in this policy.
 
 ## 1. Information Collection and Use
 The Application is designed to be a private utility tool.
