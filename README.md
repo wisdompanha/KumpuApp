@@ -9,8 +9,8 @@ Visit our live developer landing page at [wisdompanha.github.io/KumpuApp](https:
 ## Featured Applications
 
 * **Kumpu Alphabet** (`com.kumpu.android.alphabet`)
-* **Kang Means FM** (`com.kumpuapp.radio.kangmeansfm`)
-* **Mortgage Calculator** (`com.mortgage.padman.mortgagecalculator`)
+* **Radio Kang Meas FM** (`com.kumpuapp.radio.kangmeansfm`)
+* **Mortgage Loan Calc** (`com.mortgage.padman.mortgagecalculator`)
 
 ---
 
