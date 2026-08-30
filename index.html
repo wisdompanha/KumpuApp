@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kumpu Apps - Developer Portfolio</title>
+    <!-- Tailwind CSS for modern styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen flex flex-col justify-between">
+
+    <!-- Header / Hero Section -->
+    <header class="py-12 px-4 text-center max-w-3xl mx-auto">
+        <div class="inline-block p-3 bg-indigo-600 rounded-2xl shadow-lg mb-4">
+            <i class="fa-solid fa-code text-4xl text-white"></i>
+        </div>
+        <h1 class="text-4xl font-extrabold tracking-tight sm:text-5xl mb-3">Kumpu Apps</h1>
+        <p class="text-lg text-slate-400">Discover mobile applications built to simplify life, provide entertainment, and deliver useful tools.</p>
+    </header>
+
+    <!-- Main Content / App Grid -->
+    <main class="max-w-5xl mx-auto px-4 pb-16 flex-grow w-full">
+        <h2 class="text-2xl font-bold mb-6 border-b border-slate-800 pb-2">Our Android Applications</h2>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            
+            <!-- App 1: Kumpu Alphabet -->
+            <div class="bg-slate-800 border border-slate-700 rounded-2xl p-6 flex flex-col justify-between shadow-xl transition hover:scale-[1.02]">
+                <div>
+                    <div class="w-14 h-14 bg-indigo-500/10 text-indigo-400 rounded-xl flex items-center justify-center text-2xl font-bold mb-4 border border-indigo-500/20">
+                        <i class="fa-solid fa-font"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-2">Kumpu Alphabet</h3>
+                    <p class="text-slate-400 text-sm mb-4">An interactive app designed to help users learn and practice alphabets easily and efficiently.</p>
+                    <span class="inline-block bg-slate-900 text-slate-400 text-xs px-2.5 py-1 rounded-md font-mono mb-4">com.kumpu.android.alphabet</span>
+                </div>
+                <a href="https://play.google.com/store/apps/details?id=com.kumpu.android.alphabet" target="_blank" class="w-full bg-indigo-600 hover:bg-indigo-500 text-white font-medium py-2.5 px-4 rounded-xl text-center transition flex items-center justify-center gap-2">
+                    <i class="fa-brands fa-google-play"><span>Google Play</span></i>
+                </a>
+            </div>
+
+            <!-- App 2: Kang Means FM Radio -->
+            <div class="bg-slate-800 border border-slate-700 rounded-2xl p-6 flex flex-col justify-between shadow-xl transition hover:scale-[1.02]">
+                <div>
+                    <div class="w-14 h-14 bg-pink-500/10 text-pink-400 rounded-xl flex items-center justify-center text-2xl font-bold mb-4 border border-pink-500/20">
+                        <i class="fa-solid fa-radio"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-2">Kang Means FM</h3>
+                    <p class="text-slate-400 text-sm mb-4">Tune in to live audio streaming, entertainment, and updates directly from your mobile device.</p>
+                    <span class="inline-block bg-slate-900 text-slate-400 text-xs px-2.5 py-1 rounded-md font-mono mb-4">com.kumpuapp.radio.kangmeansfm</span>
+                </div>
+                <a href="https://play.google.com/store/apps/details?id=com.kumpuapp.radio.kangmeansfm" target="_blank" class="w-full bg-indigo-600 hover:bg-indigo-500 text-white font-medium py-2.5 px-4 rounded-xl text-center transition flex items-center justify-center gap-2">
+                    <i class="fa-brands fa-google-play"><span>Google Play</span></i>
+                </a>
+            </div>
+
+            <!-- App 3: Mortgage Calculator -->
+            <div class="bg-slate-800 border border-slate-700 rounded-2xl p-6 flex flex-col justify-between shadow-xl transition hover:scale-[1.02]">
+                <div>
+                    <div class="w-14 h-14 bg-emerald-500/10 text-emerald-400 rounded-xl flex items-center justify-center text-2xl font-bold mb-4 border border-emerald-500/20">
+                        <i class="fa-solid fa-calculator"></i>
+                    </div>
+                    <h3 class="text-xl font-semibold mb-2">Mortgage Calculator</h3>
+                    <p class="text-slate-400 text-sm mb-4">Calculate home loans, monthly payments, interest rates, and manage your financial planning cleanly.</p>
+                    <span class="inline-block bg-slate-900 text-slate-400 text-xs px-2.5 py-1 rounded-md font-mono mb-4">com.mortgage.padman.mortgagecalculator</span>
+                </div>
+                <a href="https://play.google.com/store/apps/details?id=com.mortgage.padman.mortgagecalculator" target="_blank" class="w-full bg-indigo-600 hover:bg-indigo-500 text-white font-medium py-2.5 px-4 rounded-xl text-center transition flex items-center justify-center gap-2">
+                    <i class="fa-brands fa-google-play"><span>Google Play</span></i>
+                </a>
+            </div>
+
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-t border-slate-800 py-6 text-center text-slate-500 text-sm">
+        <p>&copy; <span id="year"></span> Kumpu Apps. All rights reserved.</p>
+        <div class="mt-2 space-x-4">
+            <a href="#" class="hover:text-slate-300">Privacy Policy</a>
+            <a href="#" class="hover:text-slate-300">Terms of Service</a>
+        </div>
+    </footer>
+
+    <script>
+        // Set current year automatically
+        document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+</body>
+</html>
