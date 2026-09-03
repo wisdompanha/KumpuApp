@@ -22,18 +22,23 @@ The App may request access to the device's microphone (for pronunciation practic
 *   **Microphone:** Audio recorded during practice is processed locally on the device and is **never recorded, stored, or shared.**
 *   **Camera:** Any photos taken within the App are used only for in-app display and are **not saved or transmitted** outside of the device.
 
-## 5. Third-Party Services and Advertising
-*   **No Advertisements:** Our App contains no advertisements.
-*   **No Third-Party Tracking:** We do not use third-party analytics tools or social media plugins that track user behavior.
+## 5. Third-Party Advertising
+This app displays limited advertisements through Google AdMob. To ensure the safety of our young users, we have implemented the following:
+*   **Child-Directed Treatment:** We have enabled 'Child-Directed Treatment' for all ad requests.
+*   **G-Rating Restriction:** We restrict ad content to 'G' (General Audience) rating only.
+*   **Privacy Protection:** These ads do not use interest-based tracking or behavioral modeling for children.
 
-## 6. Links to Other Sites
+## 6. Third-Party Tracking
+We do not use third-party analytics tools or social media plugins that track user behavior.
+
+## 7. Links to Other Sites
 The App does not contain links to external websites or social media platforms. Any parent-focused sections (like "Settings" or "Rate Us") are protected by a "Parental Gate" to prevent accidental access by children.
 
-## 7. Data Security
+## 8. Data Security
 Because we do not collect any personal information, there is no risk of your child's data being compromised on our servers.
 
-## 8. Changes to This Policy
+## 9. Changes to This Policy
 We may update this Privacy Policy to reflect changes in our practices or for legal reasons. We will notify users of any significant changes by updating the "Last Updated" date at the top of this policy.
 
-## 9. Contact Us
+## 10. Contact Us
 If you have any questions or concerns regarding our privacy practices, please contact us at: panha.app.pp@gmail.com
