@@ -1,35 +1,39 @@
-**គោលការណ៍ឯកជនភាពសម្រាប់ វិទ្យុខ្មែរ អេប**
+# Privacy Policy for Khmer Radio & TV App
 
-**ធ្វើបច្ចុប្បន្នភាពចុងក្រោយ៖ ថ្ងៃទី៣០ ខែកក្កដា ឆ្នាំ២០២៦**
+**Last updated: October 18, 2026**
 
-កម្មវិធី វិទ្យុខ្មែរ អេប (Khmer Radio App) ត្រូវបានបង្កើតឡើងដើម្បីផ្តល់ជូននូវការស្តាប់វិទ្យុតាមអ៉ីនធឺណិតយ៉ាងងាយស្រួល។ យើងខ្ញុំសូមជម្រាបជូនអំពីគោលការណ៍ឯកជនភាពដូចខាងក្រោម៖
+Kumpu App ("we", "us", or "our") operates the Khmer Radio & TV mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.
 
-**១. ការប្រមូល និងការប្រើប្រាស់ព័ត៌មាន**
+## 1. Information Collection and Use
+We do NOT collect any personally identifiable information (PII) directly. The app is designed as a live radio and live TV streaming client and does not require user registration or account creation.
 
-យើងខ្ញុំ **មិនប្រមូល** រាល់ព័ត៌មានផ្ទាល់ខ្លួនរបស់អ្នកប្រើប្រាស់ឡើយ។ កម្មវិធីនេះមិនតម្រូវឱ្យមានការចុះឈ្មោះ ឬបង្កើតគណនីនោះទេ។
+### Data we do NOT collect:
+*   Name, email address, or phone number.
+*   Precise location data.
+*   Contacts or files from your device.
 
-**ព័ត៌មានដែលយើងមិនប្រមូល៖**
+## 2. Usage Data and Internet Access
+The app requires internet access to:
+*   Stream audio from live radio station servers.
+*   Stream live video broadcasts from TV channel servers.
+*   Fetch station logos, TV channel artwork, and metadata.
+*   Provide Chromecast support (Google Cast) and Android Auto integration.
 
-* ឈ្មោះ អ៊ីមែល ឬលេខទូរស័ព្ទ
-* ទិន្នន័យទីតាំង
-* បញ្ជីឈ្មោះទំនាក់ទំនង ឬឯកសារក្នុងទូរស័ព្ទ
+Standard technical identifiers (such as IP address or device model) may be visible to the streaming servers you connect to, just as they would be when visiting a website in a browser. We do not store or track this data.
 
-**២. ការប្រើប្រាស់ទិន្នន័យ និងការតភ្ជាប់អ៉ីនធឺណិត**
+## 3. Third-Party Advertising & Services
+To keep this app free for users, we display advertisements provided by third-party ad networks, including:
+*   **Google AdMob & Google Play Services**: [Google Privacy Policy](https://policies.google.com/privacy)
+*   **Unity Ads (Mediation)**: [Unity Privacy Policy](https://unity.com/legal/privacy-policy)
 
-កម្មវិធីនេះត្រូវការការតភ្ជាប់អ៉ីនធឺណិតដើម្បី៖
+These ad networks may use device identifiers (such as Android Advertising ID) and cookies to serve ads based on your prior visits to our app or other apps.
 
-* ស្តាប់សំឡេងវិទ្យុពីម៉ាស៊ីនបម្រើ (Server)
-* ទាញយករូបភាពឡូហ្គោ និងព័ត៌មានស្ថានីយ
-* គាំទ្រការប្រើប្រាស់ជាមួយ Google Cast (Chromecast)
+## 4. Security
+We value your trust. Since we do not collect personal data directly, there is no personal data at risk of exposure from our servers.
 
-**៣. សេវាកម្មភាគីទីបី**
+## 5. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-កម្មវិធីនេះប្រើប្រាស់សេវាកម្ម Google Play Services សម្រាប់មុខងារ Google Cast។ Google អាចនឹងប្រមូលទិន្នន័យស្របតាមគោលការណ៍របស់ពួកគេ៖ https://policies.google.com/privacy
-
-**៤. សុវត្ថិភាព**
-
-ដោយសារយើងខ្ញុំមិនមានការប្រមូលទិន្នន័យផ្ទាល់ខ្លួន ដូច្នេះមិនមានការប្រឈមនឹងការបែកធ្លាយព័ត៌មានផ្ទាល់ខ្លួនរបស់អ្នកប្រើប្រាស់ឡើយ។
-
-**៥. ការផ្លាស់ប្តូរគោលការណ៍**
-
-យើងខ្ញុំអាចនឹងធ្វើបច្ចុប្បន្នភាពគោលការណ៍នេះពីពេលមួយទៅពេលមួយ។ រាល់ការផ្លាស់ប្តូរនឹងត្រូវបង្ហាញជូនក្នុងទំព័រនេះ។
+## 6. Contact Us
+If you have any questions about this Privacy Policy, please contact us:
+*   By email: panha.app.pp@gmail.com
